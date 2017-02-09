@@ -121,7 +121,6 @@ public class ArrayJoebidieste {
       System.out.println("  g3. Mostrar la Media de Notas");
       System.out.println("  4. Ordenar Media de Notas");
       System.out.println("  5. Salir\n");
-g
     }
 
 
