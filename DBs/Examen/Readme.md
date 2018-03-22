@@ -10,7 +10,8 @@ Vamos a realizar una interfaz para guardar datos de un empleado. Los datos guard
 Operaciones vamos a realizar: 
 - Alta 
 - Bajas 
-- Modificaciones consultas por dni
+- Modificaciones 
+- consultas por dni
 - Ver __TODOS__ los registros en una tabla!
 
 Tendremos un Desplegable con 4 opciones:
